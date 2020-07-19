@@ -16,7 +16,7 @@ Programming Language Agnostic. Cypherpunk. Mercenary Developer.
       </td>
       <td width="25%" align="center">
         <span>Cloud Computing</span><br><br> 
-        <img height="64px" src="https://github.com/gungunfebrianza/vian/blob/master/assets/cloud_computing.svg">
+        <img height="64px" src="https://github.com/vianziro/vian/blob/master/assets/cloud_computing.svg">
       </td>
       <td width="25%" align="center">
         <span>Compiler Construction</span><br><br> 
