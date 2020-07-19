@@ -18,7 +18,7 @@
 
 Hi there, I'm **Vianziro**, a **Lecturer** ( At Polytechnic🌍 ) and a **Software Engineering** 🚀 from Indonesia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@vianziro](https://github.com/vianziro)👨🏽‍💼. 
 
-  <img align="right" alt="GIF" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" />
+  <img width="60%" align="right" alt="GIF" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" />
 
 **Talking about Personal Stuffs:**
 
