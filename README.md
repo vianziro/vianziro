@@ -26,7 +26,7 @@ Hi there, I'm **Vianziro**, a **Lecturer** ( At Polytechnic🌍 ) and a **Softwa
 - 🌱 I’m currently learning about Big Data & Machine Learning; 
 - 🤔 My interests are with Natural Language Processing, Computer vision, Big Data etc..;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via sepyan@poliwagi.ac.id to reach me.
+- 📫 Please email via sepyan@poliwangi.ac.id to reach me.
 - 📝 See my [Profile](https://vianziro.me) to get more info.
 
 
