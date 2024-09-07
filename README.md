@@ -27,7 +27,7 @@ I'm a **Lecturer** at [Politeknik Negeri Banyuwangi](#) 🌍 and a **Software En
 - 🤔 Interested in NLP, Computer Vision, and Big Data
 - 💬 Feel free to ask me anything!
 - 📫 Reach me via sepyan@poliwangi.ac.id
-- 📝 More info at [vianziro.me](https://vianziro.me)
+- 📝 More info at [vianziro.me](https://sepyankristanto.my.id)
 
 **Languages and Tools:**  
 
@@ -45,6 +45,5 @@ I'm a **Lecturer** at [Politeknik Negeri Banyuwangi](#) 🌍 and a **Software En
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 
-![Vian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vianziro&show_icons=true&hide_border=true)
 
 ⭐️ From [Callvianziro](https://github.com/vianziro)
